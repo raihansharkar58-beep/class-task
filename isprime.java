@@ -8,6 +8,7 @@ public class isprime {
             System.out.print(a+" ");
             int t=a;
             a=b;
+            
             b=t+b;
         }
     }
