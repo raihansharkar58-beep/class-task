@@ -1,5 +1,5 @@
 import java.util.*;
-public class task5 {
+public class positive_negative_odd_ev {
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();

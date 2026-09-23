@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class task4{
+public class Grade_from_marks{
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         float number=sc.nextFloat();

@@ -1,4 +1,4 @@
-public class practice {
+public class Swap_trhough_XOR {
     public static void main(String[] args){
         // int[] SubjectWiseResult1= new int[4];
         // int[] result={1,4,6,7,8,54,6,6,};

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class task2{
+public class Triangle_circle_temperature2{
     public static void main(String[] argc){
         Scanner sc= new Scanner(System.in);
         System.out.print("Enter base and height of triangle:");
